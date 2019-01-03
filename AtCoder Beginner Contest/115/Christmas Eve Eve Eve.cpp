@@ -18,7 +18,7 @@ int main(){
   cout << r << endl;
 }
 
-// こっちの方がうまくかけたと思うけど2回目ACなので
+// こっちの方がうまくかけたと思う
 // #include <bits/stdc++.h>
 // using namespace std;
 //
