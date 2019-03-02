@@ -8,6 +8,6 @@ int main(){
   if(n%2 == 0){
     cout << (n / 2) * (n / 2) << endl;
   }else{
-    cout << (n/2) * (n/2-1) << endl;
+    cout << (n/2) * (n/2+1) << endl;
   }
 }
